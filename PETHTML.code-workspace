@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../PETHTML"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FOODHTML"
+	}
+}
